@@ -1,0 +1,59 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin: 0;
+}
+
+header {
+  background-color: greenyellow;
+  padding: 1.5rem;
+  margin-bottom: 5rem;
+  border-bottom: 3px solid black;
+}
+
+.divone,
+.divtwo {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.check-btn {
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  background-color: greenyellow;
+}
+
+.output-div {
+  border: 3px solid greenyellow;
+  width: 30%;
+  height: 3rem;
+  margin: auto;
+  margin-top: 3.5rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+footer {
+  background-color: greenyellow;
+  padding: 0.5rem;
+  text-align: center;
+  margin: 0;
+  margin-top: 2rem;
+  border-radius: 0.4rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.footer-menu-items {
+  display: inline;
+  padding: 0.75rem;
+}
+
+.footer-links {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
